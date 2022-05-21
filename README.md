@@ -1,2 +1,2 @@
 # VaR-
-analisis de value at risk pre y post pandemia del SP500
+#analisis de value at risk pre y post pandemia del SP500
